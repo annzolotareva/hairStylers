@@ -20,7 +20,7 @@
 ## Запуск проекта
 
 # 1 Клонировать репозиторий
-git clone 
+git clone https://github.com/annzolotareva/hairStylers.git
 
 # 2 Перейти в директорию проектa
 
